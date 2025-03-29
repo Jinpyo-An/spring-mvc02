@@ -27,6 +27,9 @@ dependencies {
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+	implementation group: 'org.springframework.boot', name: 'spring-boot-starter-validation', version: '3.4.4'
+	implementation group: 'org.openjdk.nashorn', name: 'nashorn-core', version: '15.6'
 }
 
 tasks.named('test') {
