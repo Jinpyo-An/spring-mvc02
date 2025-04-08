@@ -4,6 +4,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/exception" />
     <file type="web" url="file://$PROJECT_DIR$/thymeleaf-basic" />
+    <file type="web" url="file://$PROJECT_DIR$/typeconverter" />
+    <file type="web" url="file://$PROJECT_DIR$/upload" />
   </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
